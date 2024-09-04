@@ -115,7 +115,7 @@ const Birthday_Wish = () => {
       >
         <Card>
           <CardHeader>
-            <p>Dedicated from your <span className="font-bold">'Uncle'</span></p>
+            <p>Dedicated from your <span className="font-bold">`${"uncle"}`</span></p>
             <motion.div>
               <CardTitle className="text-2xl sm:text-4xl">
                 Happy 3th Birthday!
