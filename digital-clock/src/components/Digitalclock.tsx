@@ -62,7 +62,7 @@ const DigitalClock = () => {
 
   return (
     <div className="main flex items-center justify-center h-screen bg-black">
-      <Card className="bg-white px-0 py-4 md:px-5 md:w-[300px] w-[98%]">
+      <Card className="bg-white px-0 py-4 md:px-5 md:w-[400px] w-[98%]">
         {/* Card header displaying the title and description */}
         <CardHeader className="text-center">
           <CardTitle className="font-bold">Digital Clock</CardTitle>
